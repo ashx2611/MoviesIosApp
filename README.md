@@ -9,6 +9,9 @@ one for user's favorite list
 4) if favorite button is selected, the movie is added into the user's favorite list both in the firebase and in the favorite list of the app
 if deselected, the movie is removed from the user's favorite list in both firebase and app
 
+<img width="184" alt="1" src="https://user-images.githubusercontent.com/21365544/40680156-2dd83ace-6353-11e8-9643-908d58730cc1.PNG"> <img width="186" alt="2" src="https://user-images.githubusercontent.com/21365544/40680162-31c64856-6353-11e8-915e-de34988deade.PNG"><img width="190" alt="3" src="https://user-images.githubusercontent.com/21365544/40680166-35501cc2-6353-11e8-8219-7ebbbdbd21fe.PNG">
+
+
 
 
 
